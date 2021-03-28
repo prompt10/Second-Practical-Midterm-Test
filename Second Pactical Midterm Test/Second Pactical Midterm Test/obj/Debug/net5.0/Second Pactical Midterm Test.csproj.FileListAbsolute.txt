@@ -1,0 +1,16 @@
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\bin\Debug\net5.0\Second Pactical Midterm Test.exe
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\bin\Debug\net5.0\Second Pactical Midterm Test.deps.json
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\bin\Debug\net5.0\Second Pactical Midterm Test.runtimeconfig.json
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\bin\Debug\net5.0\Second Pactical Midterm Test.runtimeconfig.dev.json
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\bin\Debug\net5.0\Second Pactical Midterm Test.dll
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\bin\Debug\net5.0\ref\Second Pactical Midterm Test.dll
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\bin\Debug\net5.0\Second Pactical Midterm Test.pdb
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\obj\Debug\net5.0\Second Pactical Midterm Test.csprojAssemblyReference.cache
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\obj\Debug\net5.0\Second Pactical Midterm Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\obj\Debug\net5.0\Second Pactical Midterm Test.AssemblyInfoInputs.cache
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\obj\Debug\net5.0\Second Pactical Midterm Test.AssemblyInfo.cs
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\obj\Debug\net5.0\Second Pactical Midterm Test.csproj.CoreCompileInputs.cache
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\obj\Debug\net5.0\Second Pactical Midterm Test.dll
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\obj\Debug\net5.0\ref\Second Pactical Midterm Test.dll
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\obj\Debug\net5.0\Second Pactical Midterm Test.pdb
+D:\Prompt\Second Pactical Midterm Test\Second Pactical Midterm Test\Second Pactical Midterm Test\obj\Debug\net5.0\Second Pactical Midterm Test.genruntimeconfig.cache

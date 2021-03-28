@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Second Pactical Midterm Test/1.0.0": {
+        "runtime": {
+          "Second Pactical Midterm Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Second Pactical Midterm Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
